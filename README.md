@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Guilherme Nascimento! 👋
 
-- 🔭 Hoje trabalho como Costomer Success Architect
+- 🔭 Hoje trabalho como Customer Success Architect
 - 🌱 Estudando Frontend e Backend.
 - 📫 Contate-me: guihsn2007@hotmail.com 
 - 😄 Pronouns: Ele/ Dele
