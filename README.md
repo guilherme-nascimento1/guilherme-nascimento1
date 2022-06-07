@@ -1,4 +1,4 @@
-### Olá, Eu sou o Guilherme Nascimento! 👋
+### Hi, I am Guilherme Nascimento! 👋
 
 - 🔭 Today work with System Analyst Jr.
 - 🌱 Studing Backend.
