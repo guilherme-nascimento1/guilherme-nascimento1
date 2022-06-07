@@ -1,9 +1,26 @@
 ### Olá, Eu sou o Guilherme Nascimento! 👋
 
-- 🔭 Hoje trabalho como Customer Success Architect
-- 🌱 Estudando Backend.
-- 📫 Contate-me: guihsn2007@hotmail.com 
-- 😄 Pronouns: Ele/ Dele
+- 🔭 Today work with System Analyst Jr.
+- 🌱 Studing Backend.
+- 📫 Contact: guihsn2007@hotmail.com
+
+ ## 
+
+### My day by day: 
+<li>Development and implementation of workflows
+integrations according to the requirements of the
+project;</li>
+<li>Application of corrections and refactoring of
+functionalities already existing in applications;</li>
+<li>Design of the architecture of the integrations;</li>
+<li>Code optimization;</li>
+<li>Development of improvements;</li>
+<li>Construction of integrations with ERPs,
+Marketplaces, OMS, TMS, E-commerces,
+Webservices and APIs.</li>
+<li>Workflow guided by the Agile Methodology</li>
+
+##
 
 
 <div align="center">
