@@ -1,8 +1,7 @@
-### Hi, I am Guilherme Nascimento! 👋
-
-- 🔭 Today work with System Analyst Jr.
-- 🌱 Studing Backend.
-- 📫 Contact: guihsn2007@hotmail.com
+### Hi, I am Guilherme Nascimento! Nice to meet you 👋
+<li> 🔭 Today work with System Analyst Jr.</li>
+<li>🌱 Studing Backend.</li>
+<li> 📫 Contact: guihsn2007@hotmail.com</li>
 
  ## 
 
