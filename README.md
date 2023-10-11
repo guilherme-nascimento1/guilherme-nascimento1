@@ -28,9 +28,10 @@ Webservices and APIs.</li>
 </div>
   <h2> I specialize in: </h2>
   <div style="display: inline_block"><br>
-   <img align="center" alt="Gui-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   
-  <img align="center" alt="Gui-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">          
-  <img align="center" alt="Gui-Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">          
+   <img align="center" alt="Gui-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+   <img align="center" alt="Gui-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"">  
+   <img align="center" alt="Gui-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">          
+   <img align="center" alt="Gui-Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">          
                  
 </div>
   
