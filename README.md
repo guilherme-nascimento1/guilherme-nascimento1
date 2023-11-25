@@ -1,5 +1,5 @@
 ### Hi, I am Guilherme Nascimento! Nice to meet you 👋
-<li> 🔭 Today work with System Analyst Jr.</li>
+<li> 🔭 Today work with Developer Jr.</li>
 <li>🌱 Studing Backend.</li>
 <li> 📫 Contact: guihsn2007@hotmail.com</li>
 
