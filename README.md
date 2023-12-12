@@ -1,4 +1,7 @@
-### Hi, I am Guilherme Nascimento! Nice to meet you 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Guilherme+Nascimento!+🇧🇷;" />
+</h1>
+
 <li> 🔭 Today work with Developer Jr.</li>
 <li>🌱 Studing Backend.</li>
 <li> 📫 Contact: guihsn2007@hotmail.com</li>
@@ -16,24 +19,6 @@ I am always looking for challenges and opportunities to learn and grow. If you a
 
 <h2 align="left">
 
-##
-
-<div align="center">
-  <a href="https://github.com/guilherme-nascimento1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-nascimento1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-nascimento1&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  <h2> I specialize in: </h2>
-  <div style="display: inline_block"><br>
-   <img align="center" alt="Gui-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-   <img align="center" alt="Gui-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">          
-   <img align="center" alt="Gui-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">          
-   <img align="center" alt="Gui-Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">          
-                 
-</div>
-  
-  ##
-
   <p align="left">
   💌 Sinta-se a vontade para entrar em contato: ⤵️
 </p>
@@ -45,13 +30,29 @@ I am always looking for challenges and opportunities to learn and grow. If you a
   <a href="https://www.linkedin.com/in/guilherme-nascimento-045642162" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
+##
+
 <div align="center">
-  <h3><b>Profile Visitor Count</b></h3>
+  <a href="https://github.com/guilherme-nascimento1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-nascimento1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-nascimento1&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+   
+##   
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css" /> <br>
+    <img src="https://skillicons.dev/icons?i=nodejs,java,spring,mysql,postgres,mongodb" /><br/>
+    <img src="https://skillicons.dev/icons?i=vite,express,nestjs,prisma" /><br>
+ <img src="https://skillicons.dev/icons?i=vscode,aws,docker,github,git" /><br>
 </div>
 
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/danieldribeiro/count.svg"
-    alt="Ilustração do número de visitantes no perfil"
-  />
-</p>
+##
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/viniciussantos45/viniciussantos45/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
