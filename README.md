@@ -3,7 +3,7 @@
 </h1>
 
 <li> 🔭 Today work with Developer Jr.</li>
-<li>🌱 Studing Backend.</li>
+<li>🌱 Studing FullStack</li>
 <li> 📫 Contact: guihsn2007@hotmail.com</li>
 
  ## 
