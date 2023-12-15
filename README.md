@@ -20,7 +20,7 @@ I am always looking for challenges and opportunities to learn and grow. If you a
 <h2 align="left">
 
   <p align="left">
-  💌 Sinta-se a vontade para entrar em contato: ⤵️
+  💌 Feel free to get in touch: ⤵️
 </p>
 
  <div> 
