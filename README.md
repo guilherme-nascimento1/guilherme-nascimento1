@@ -42,8 +42,9 @@ I am always looking for challenges and opportunities to learn and grow. If you a
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css" /> <br>
-    <img src="https://skillicons.dev/icons?i=nodejs,java,spring,mysql,postgres,mongodb" /><br/>
+    <img src="https://skillicons.dev/icons?i=angular,typescript,javascript" /> <br>
+    <img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet" /><br/>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /><br/>
     <img src="https://skillicons.dev/icons?i=vite,express,nestjs,prisma" /><br>
  <img src="https://skillicons.dev/icons?i=vscode,aws,docker,github,git" /><br>
 </div>
