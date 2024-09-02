@@ -13,7 +13,7 @@
 <p align="left"> 
  I'm Guilherme, I'm 25 years old and I'm a <strong>back-end developer.</strong> 
 
-Graduated in Computer Science from USCS, and I am currently pursuing a postgraduate degree in Java Architecture and Development at FIAP. I am committed to improving my skills as a Fullstack developer.
+Graduated in Computer Science from USCS. I am committed to improving my skills as a Fullstack developer.
 
 I am always looking for challenges and opportunities to learn and grow. If you are interested in collaborating or sharing ideas, please don't hesitate to contact me. I love meeting new people and exploring ways to make the digital world a better place.
 
