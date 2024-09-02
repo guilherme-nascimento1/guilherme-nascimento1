@@ -15,7 +15,7 @@
 
 Graduated in Computer Science from USCS. I am committed to improving my skills as a Fullstack developer.
 
-I am always looking for challenges and opportunities to learn and grow. If you are interested in collaborating or sharing ideas, please don't hesitate to contact me. I love meeting new people and exploring ways to make the digital world a better place.
+I’m constantly seeking challenges and opportunities to learn and grow. If you're interested in collaborating or exchanging ideas, feel free to reach out. 
 
 <h2 align="left">
 
