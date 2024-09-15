@@ -11,7 +11,7 @@
 
 ### About me: 
 <p align="left"> 
- I'm Guilherme, I'm 25 years old and I'm a <strong>back-end developer.</strong> 
+ I'm Guilherme, I'm 26 years old and I'm a <strong>back-end developer.</strong> 
 
 Graduated in Computer Science from USCS. I am committed to improving my skills as a Fullstack developer.
 
