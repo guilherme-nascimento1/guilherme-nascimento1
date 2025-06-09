@@ -42,7 +42,7 @@ I’m constantly seeking challenges and opportunities to learn and grow. If you'
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=angular,typescript,javascript" /> <br>
+    <img src="https://skillicons.dev/icons?i=react,angular,typescript,javascript" /> <br>
     <img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet" /><br/>
     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /><br/>
     <img src="https://skillicons.dev/icons?i=vite,express,nestjs,prisma" /><br>
